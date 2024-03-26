@@ -1,0 +1,17 @@
+Hi, Remi Marche here,
+
+I'm a passionnate software developper and open-sourcerer, with a background in typescript, C/C++, html, and a deep understanding of CSS. Having spent most of my last years working on web projects with TailwindCSS and NextJS, I've come to really love the React+Tailwind frontend stack, although the performance of both did itch my optimization-oriented brain.
+
+More recently, finishing my university, I've spent more time with Rust, built a compiler and transpiler for the ICU message format that I've tried to optimize as much as possible, a tiny LASER controller with galvo mirrors that can paint images by moving to fast for the human eye (a LASER projector controlled by websockets, if you prefer).
+
+I have around 6 years of experience programming, most of that almost full-time, contributed to more than 200 open-source repositories, have created almost twice as many for my own projects, published a few js libraries, some game, placed well in a few hackatons, but, most importantly, kept smiling through it all.
+
+I consider myself a great smiler above all. I love learning. I love challenges. I love canoeing, rock climbing, skiing, mountain biking, kayaking, playing classical piano or jazz saxophone, composing pop tunes and working like the biggest nerd with DAWs. But above all, I love smiling, and I love it even better when I make people smile and laugh, and that's what's driving me. 
+
+Really, my life recently has orbited around that principle: happiness belongs to those who create it and share it around them. And that's one of the thing that attracted me to this job posting: I know I may not be the most experienced, and I know I'm definetely not the most skilled who applies: people have decades more of experience than I do! However, I have one big advantage, you'll never, ever, see me frown. I know when to ask for help, I learn extremely fast, I accept reproach as a learning opportunity, and I improve from it. And everything I've seen from the Tailwind community just drives that family-friendly vibe. Even better is that along the way you make the tooling better for absolutely everyone. 
+
+One last word: because this may not be the most aesteticall pleasing cover letter for a design-oriented company: I value practicality over visual-attractiveness, and this is the quickest I could do. Consider this design the lorem ipsum of CSS: no CSS so you won't be bothered by it.
+
+Really, really, have the nicest, sunniest day, and give me half a day to prove what I can do. 
+
+Remi Marche, still smiling happily
